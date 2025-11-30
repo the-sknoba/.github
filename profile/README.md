@@ -23,9 +23,8 @@ We work across a variety of domains, including:
 Explore our repositories to see what we’re building!
 
 ## 📁 Featured Projects
-> *(Add your projects here once available — I can generate descriptions and badges if you provide repo names.)*
+> 🚧 *Coming soon…*
 
-- 🚧 *Coming soon…*
 
 ## 🤝 Contributing
 We welcome contributions from developers of all skill levels.  
